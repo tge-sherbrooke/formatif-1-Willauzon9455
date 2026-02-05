@@ -1,6 +1,6 @@
 # /// script
 # requires-python = ">=3.9"
-# dependencies = ["adafruit-circuitpython-seesaw", "adafruit-blinka"]
+# dependencies = ["adafruit-circuitpython-seesaw", "adafruit-blinka", "rpi.gpio"]
 # ///
 """Test du NeoSlider - Animation arc-en-ciel sur les LEDs."""
 
